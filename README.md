@@ -30,7 +30,7 @@ This repository contains the source code for my personal portfolio website, buil
 ![Projects](./imagess/2.png)
 ![Pricing](./imagess/3.png)
 ![Who am i](./imagess/4.png)
-![Contact](./images/5.png)
+![Contact](./imagess/5.png)
 
 ## Feedback
 
