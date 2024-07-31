@@ -26,10 +26,10 @@ This repository contains the source code for my personal portfolio website, buil
 
 ## Screenshots
 
-![Home Page](./images/1.png)
-![Projects](./images/2.png)
-![Pricing](./images/3.png)
-![Who am i](./images/4.png)
+![Home Page](./imagess/1.png)
+![Projects](./imagess/2.png)
+![Pricing](./imagess/3.png)
+![Who am i](./imagess/4.png)
 ![Contact](./images/5.png)
 
 ## Feedback
